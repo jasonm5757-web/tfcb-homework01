@@ -4,6 +4,13 @@
 
 ### Jason McBane 
 
+# Another large header, just for good measure
+
+Questions to ask before submitting: 
+- Do I have to embed a local image file from my computer? Or just a link? How do I do that if so?
+    - I bet it's images contained in the directory of images I just made...
+- Did I rename all of the files correctly? If not, what should I change? 
+
 
 <ins>Allow me to demonstrate my skills<ins>
 
@@ -20,5 +27,23 @@
             - Ok, this is getting a little ridiculous
 2) Second number, just to prove I can
 
+### Ok, let's keep track of what I have done with a table
 
-Next, I will embed some images and make some tables. Not tonight though...
+| Done | Not Done |
+| ------------- | ------------- |
+| Make a table | Embed an image  |
+| Use headers | Tidy data |
+| Embed a link| Finish HW  |
+| Make a list| Eat lunch|
+
+
+### Lastly, images
+
+First, my professional UW headshot![my professional UW headshot](https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/2/14450/files/2025/09/McBane_Jason.jpg)
+
+Second, the images in the image directory I made previously
+![image 1](images/casent0172345_Rhytidoponera_metallica.jpg)
+![image 2](images/casent0191696_Camponotus_darwinii.jpg)
+![image 3](images/casent0901788_p_1_high_Acanthomyrmex_ferox.jpg)
+![image 4](images/casent0906296_p_1_high_Cataglyphis_fortis.jpg)
+
