@@ -47,4 +47,3 @@ Second, the images in the image directory I made previously
 ![image 3](images/casent0901788_p_1_high_acanthomyrmex_ferox.jpg)
 ![image 4](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
 
-ok so i need to figure out a way to get the file names right in github, lets try changing it to something silly and then changing it back. 
