@@ -42,7 +42,7 @@ Questions to ask before submitting:
 First, my professional UW headshot![my professional UW headshot](https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/2/14450/files/2025/09/McBane_Jason.jpg)
 
 Second, the images in the image directory I made previously
-![image 1](images/casent0172345_rhytidoponera_metallica.jpg)
+![image 1](images/casent0172345_BOOOOrhytidoponera_metallica.jpg)
 ![image 2](images/casent0191696_camponotus_darwinii.jpg)
 ![image 3](images/casent0901788_p_1_high_acanthomyrmex_ferox.jpg)
 ![image 4](images/casent0906296_p_1_high_cataglyphis_fortis.jpg)
