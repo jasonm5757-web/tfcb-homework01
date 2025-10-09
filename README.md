@@ -6,11 +6,6 @@
 
 # Another large header, just for good measure
 
-Questions to ask before submitting: 
-- Do I have to embed a local image file from my computer? Or just a link? How do I do that if so?
-    - I bet it's images contained in the directory of images I just made...
-- Did I rename all of the files correctly? If not, what should I change? 
-
 
 <ins>Allow me to demonstrate my skills<ins>
 
